@@ -1,0 +1,28 @@
+4 [ZEN:220] Misty Rainforest
+1 [M15:194] Reclamation Sage
+1 [3ED:297] Savannah
+4 [MMQ:61] Brainstorm
+2 [THS:107] Thoughtseize
+4 [ZEN:229] Verdant Catacombs
+1 [CON:32] Parasitic Strix
+1 [3ED:305] Underground Sea
+3 [PCA:104] Shardless Agent
+2 [3ED:303] Tropical Island
+4 [TMP:107] Aluren
+2 [HOU:189] Forest
+4 [E01:80] Baleful Strix
+2 [HOU:186] Island
+1 [HOU:187] Swamp
+2 [POR:60] Man-o'-War
+1 [3ED:283] Bayou
+2 [KTK:239] Polluted Delta
+1 [5ED:191] Sylvan Library
+3 [RTR:141] Abrupt Decay
+4 [JUD:62] Cabal Therapy
+4 [CN2:22] Recruiter of the Guard
+4 [RTR:213] Deathrite Shaman
+1 [5DN:86] Eternal Witness
+1 [WTH:86] Veteran Explorer
+1 [PLS:97] Cavern Harpy
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([PCA:104],[PCA:104],[PCA:104],[E01:80],[E01:80],[E01:80],[E01:80],[CON:32])([PLS:97],[M15:194],[CN2:22],[CN2:22],[CN2:22],[CN2:22],[RTR:213],[RTR:213],[RTR:213],[RTR:213],[5DN:86],[WTH:86],[POR:60],[POR:60])([TMP:107],[TMP:107],[TMP:107],[TMP:107],[5ED:191])([MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[RTR:141],[RTR:141],[RTR:141])([3ED:297],[3ED:305],[3ED:283],[3ED:303],[3ED:303],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[KTK:239],[KTK:239],[HOU:187],[HOU:189],[HOU:189],[HOU:186],[HOU:186])([JUD:62],[JUD:62],[JUD:62],[JUD:62],[THS:107],[THS:107])
+LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|

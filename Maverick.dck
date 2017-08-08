@@ -1,0 +1,31 @@
+3 [WMCQ:3] Thalia, Guardian of Thraben
+1 [TSP:215] Scryb Ranger
+4 [KTK:248] Windswept Heath
+4 [MBS:81] Green Sun's Zenith
+1 [BOK:163] Umezawa's Jitte
+2 [FUT:177] Horizon Canopy
+2 [EXP:40] Horizon Canopy
+1 [JR:39] Maze of Ith
+1 [FUT:153] Tarmogoyf
+3 [3ED:297] Savannah
+1 [FUT:174] Dryad Arbor
+4 [C16:78] Swords to Plowshares
+4 [DDG:1] Knight of the Reliquary
+2 [FNMP:124] Qasali Pridemage
+1 [HOU:189] Forest
+1 [HOU:185] Plains
+1 [POR:203] Forest
+1 [POR:205] Forest
+4 [FNMP:54] Mother of Runes
+1 [MBP:70] Scavenging Ooze
+1 [5ED:191] Sylvan Library
+1 [NPH:130] Batterskull
+1 [HOP:146] Plains
+4 [CON:87] Noble Hierarch
+1 [MPS:28] Sword of Feast and Famine
+1 [MPS:29] Sword of Fire and Ice
+4 [EXP:25] Misty Rainforest
+1 [ME4:250] Savannah
+4 [GPX:12] Stoneforge Mystic
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([NPH:130],[BOK:163],[MPS:29],[MPS:28])([FUT:174])([CON:87],[CON:87],[CON:87],[CON:87],[TSP:215],[FUT:153],[GPX:12],[GPX:12],[GPX:12],[GPX:12],[FNMP:54],[FNMP:54],[FNMP:54],[FNMP:54],[WMCQ:3],[WMCQ:3],[WMCQ:3],[FNMP:124],[FNMP:124],[MBP:70],[DDG:1],[DDG:1],[DDG:1],[DDG:1])([5ED:191])([C16:78],[C16:78],[C16:78],[C16:78])([3ED:297],[3ED:297],[3ED:297],[FUT:177],[FUT:177],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[HOU:189],[HOU:185],[ME4:250],[EXP:40],[EXP:40],[EXP:25],[EXP:25],[EXP:25],[EXP:25],[JR:39],[POR:203],[POR:205],[HOP:146])([MBS:81],[MBS:81],[MBS:81],[MBS:81])
+LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|

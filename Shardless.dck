@@ -1,0 +1,32 @@
+NAME:Shardless
+2 [TMP:340] Wasteland
+2 [WWK:134] Creeping Tar Pit
+3 [ALL:42] Force of Will
+4 [KTK:239] Polluted Delta
+1 [5ED:191] Sylvan Library
+4 [ZEN:220] Misty Rainforest
+4 [FUT:153] Tarmogoyf
+4 [MMQ:61] Brainstorm
+4 [RTR:141] Abrupt Decay
+4 [TSP:48] Ancestral Vision
+1 [MIR:299] Island
+2 [VMA:321] Tropical Island
+4 [PCA:104] Shardless Agent
+2 [FEM:12] Hymn to Tourach
+3 [3ED:305] Underground Sea
+4 [RTR:213] Deathrite Shaman
+1 [EMA:108] Toxic Deluge
+1 [HOU:189] Forest
+2 [WWK:31] Jace, the Mind Sculptor
+3 [E01:80] Baleful Strix
+2 [ME4:242] Bayou
+2 [ISD:105] Liliana of the Veil
+1 [HOU:187] Swamp
+SB: 4 [CN2:140] Inquisition of Kozilek
+SB: 1 [DGM:88] Notion Thief
+SB: 4 [GPT:52] Leyline of the Void
+SB: 2 [TMP:24] Dread of Night
+SB: 1 [V16:14] Umezawa's Jitte
+SB: 3 [ULG:51] Engineered Plague
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([E01:80],[E01:80],[E01:80],[PCA:104],[PCA:104],[PCA:104],[PCA:104])([RTR:213],[RTR:213],[RTR:213],[RTR:213],[FUT:153],[FUT:153],[FUT:153],[FUT:153])([5ED:191])([RTR:141],[RTR:141],[RTR:141],[RTR:141],[MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[ALL:42],[ALL:42],[ALL:42])([WWK:134],[WWK:134],[HOU:189],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[HOU:187],[3ED:305],[3ED:305],[3ED:305],[TMP:340],[TMP:340],[ME4:242],[ME4:242],[VMA:321],[VMA:321],[MIR:299])([WWK:31],[WWK:31],[ISD:105],[ISD:105])([TSP:48],[TSP:48],[TSP:48],[TSP:48],[FEM:12],[FEM:12],[EMA:108])
+LAYOUT SIDEBOARD:(1,3)(CARD_TYPE,false,50)|([DGM:88],[V16:14])([TMP:24],[TMP:24],[ULG:51],[ULG:51],[ULG:51],[GPT:52],[GPT:52],[GPT:52],[GPT:52])([CN2:140],[CN2:140],[CN2:140],[CN2:140])

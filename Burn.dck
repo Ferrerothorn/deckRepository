@@ -1,0 +1,22 @@
+4 [CHK:178] Lava Spike
+2 [NEM:80] Flame Rift
+4 [M11:149] Lightning Bolt
+4 [KTK:118] Monastery Swiftspear
+2 [M12:145] Grim Lavamancer
+3 [KTK:249] Wooded Foothills
+4 [EXO:95] Price of Progress
+4 [TSP:176] Rift Bolt
+3 [KTK:230] Bloodstained Mire
+4 [ZEN:223] Scalding Tarn
+4 [ZEN:126] Goblin Guide
+4 [LEG:137] Chain Lightning
+4 [JOU:94] Eidolon of the Great Revel
+4 [VIS:79] Fireblast
+10 [HOU:188] Mountain
+SB: 3 [WWK:90] Searing Blaze
+SB: 3 [ZEN:57] Mindbreak Trap
+SB: 2 [ALL:115] Pyrokinesis
+SB: 3 [FNMP:190] Smash to Smithereens
+SB: 4 [ORI:143] Exquisite Firecraft
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,50)|([JOU:94],[JOU:94],[JOU:94],[JOU:94])([KTK:118],[KTK:118],[KTK:118],[KTK:118],[ZEN:126],[ZEN:126],[ZEN:126],[ZEN:126],[M12:145],[M12:145])([M11:149],[M11:149],[M11:149],[M11:149],[VIS:79],[VIS:79],[VIS:79],[VIS:79],[EXO:95],[EXO:95],[EXO:95],[EXO:95])([KTK:249],[KTK:249],[KTK:249],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[KTK:230],[KTK:230],[KTK:230],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188])([CHK:178],[CHK:178],[CHK:178],[CHK:178],[TSP:176],[TSP:176],[TSP:176],[TSP:176],[LEG:137],[LEG:137],[LEG:137],[LEG:137],[NEM:80],[NEM:80])
+LAYOUT SIDEBOARD:(1,2)(CARD_TYPE,false,50)|([WWK:90],[WWK:90],[WWK:90],[ZEN:57],[ZEN:57],[ZEN:57],[ALL:115],[ALL:115])([ORI:143],[ORI:143],[ORI:143],[ORI:143],[FNMP:190],[FNMP:190],[FNMP:190])

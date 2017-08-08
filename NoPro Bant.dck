@@ -1,0 +1,25 @@
+4 [MM3:240] Misty Rainforest
+4 [ME2:37] Swords to Plowshares
+3 [ALA:188] Rhox War Monk
+1 [V11:9] Progenitus
+2 [ONS:316] Flooded Strand
+4 [MM2:165] Tarmogoyf
+2 [JR:46] Windswept Heath
+4 [JR:66] Noble Hierarch
+2 [KTK:257] Island
+4 [MMQ:61] Brainstorm
+1 [3ED:297] Savannah
+4 [DD2:23] Daze
+1 [FUT:174] Dryad Arbor
+2 [KTK:267] Forest
+2 [ZEN:67] Spell Pierce
+3 [VMA:321] Tropical Island
+1 [KTK:250] Plains
+2 [DDH:10] Qasali Pridemage
+2 [EMA:209] Trygon Predator
+4 [MPS-AKH:14] Force of Will
+3 [POR:101] Natural Order
+3 [M12:73] Ponder
+2 [ME4:255] Tundra
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,50)|([FUT:174])([EMA:209],[EMA:209],[DDH:10],[DDH:10],[MM2:165],[MM2:165],[MM2:165],[MM2:165],[V11:9],[ALA:188],[ALA:188],[ALA:188],[JR:66],[JR:66],[JR:66],[JR:66])([ME2:37],[ME2:37],[ME2:37],[ME2:37],[DD2:23],[DD2:23],[DD2:23],[DD2:23],[MPS-AKH:14],[MPS-AKH:14],[MPS-AKH:14],[MPS-AKH:14],[ZEN:67],[ZEN:67],[MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61])([VMA:321],[VMA:321],[VMA:321],[MM3:240],[MM3:240],[MM3:240],[MM3:240],[ME4:255],[ME4:255],[JR:46],[JR:46],[ONS:316],[ONS:316],[3ED:297],[KTK:250],[KTK:257],[KTK:257],[KTK:267],[KTK:267])([M12:73],[M12:73],[M12:73],[POR:101],[POR:101],[POR:101])
+LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|

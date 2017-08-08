@@ -1,0 +1,22 @@
+2 [EMA:234] Winter Orb
+4 [MRD:150] Chalice of the Void
+1 [RAV:256] Bottled Cloister
+4 [PD3:24] Crystal Vein
+4 [V13:8] Tangle Wire
+2 [8ED:300] Ensnaring Bridge
+4 [DST:154] Trinisphere
+3 [V14:11] Smokestack
+2 [DIS:173] Ghost Quarter
+4 [EXO:143] City of Traitors
+4 [MM2:219] Lodestone Golem
+2 [MLP:12] Steel Hellkite
+3 [MPS:11] Crucible of Worlds
+4 [C14:286] Buried Ruin
+4 [KLD:247] Inventors' Fair
+2 [SOM:223] Wurmcoil Engine
+4 [V12:1] Ancient Tomb
+2 [ULG:126] Grim Monolith
+1 [KLD:216] Ghirapur Orrery
+4 [UDS:135] Metalworker
+LAYOUT MAIN:(1,3)(CARD_TYPE,false,50)|([MM2:219],[MM2:219],[MM2:219],[MM2:219],[UDS:135],[UDS:135],[UDS:135],[UDS:135],[MLP:12],[MLP:12],[SOM:223],[SOM:223])([V14:11],[V14:11],[V14:11],[V13:8],[V13:8],[V13:8],[V13:8],[ULG:126],[ULG:126],[DST:154],[DST:154],[DST:154],[DST:154],[8ED:300],[KLD:216],[MPS:11],[MPS:11],[MPS:11],[EMA:234],[EMA:234],[MRD:150],[MRD:150],[MRD:150],[MRD:150],[8ED:300],[RAV:256])([DIS:173],[DIS:173],[KLD:247],[KLD:247],[KLD:247],[KLD:247],[V12:1],[V12:1],[V12:1],[V12:1],[EXO:143],[EXO:143],[EXO:143],[EXO:143],[PD3:24],[PD3:24],[PD3:24],[PD3:24],[C14:286],[C14:286],[C14:286],[C14:286])
+LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|

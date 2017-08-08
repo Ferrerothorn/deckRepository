@@ -1,0 +1,20 @@
+4 [MMQ:254] Invigorate
+4 [ALL:42] Force of Will
+4 [NPH:111] Glistener Elf
+4 [ZEN:220] Misty Rainforest
+4 [KTK:249] Wooded Foothills
+2 [TSB:120] Pendelhaven
+4 [ZEN:193] Vines of Vastwood
+2 [2ED:94] Berserk
+4 [MMQ:61] Brainstorm
+1 [ZEN:67] Spell Pierce
+2 [KTK:130] Become Immense
+4 [CON:87] Noble Hierarch
+4 [3ED:303] Tropical Island
+4 [NPH:35] Gitaxian Probe
+4 [NEM:30] Daze
+4 [MBS:145] Inkmoth Nexus
+1 [HOU:189] Forest
+4 [NPH:29] Blighted Agent
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([NPH:111],[NPH:111],[NPH:111],[NPH:111],[CON:87],[CON:87],[CON:87],[CON:87],[NPH:29],[NPH:29],[NPH:29],[NPH:29])([MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[ALL:42],[ALL:42],[ALL:42],[ALL:42],[NEM:30],[NEM:30],[NEM:30],[NEM:30],[ZEN:193],[ZEN:193],[ZEN:193],[ZEN:193],[MMQ:254],[MMQ:254],[MMQ:254],[MMQ:254],[2ED:94],[2ED:94],[KTK:130],[KTK:130],[ZEN:67])([MBS:145],[MBS:145],[MBS:145],[MBS:145],[3ED:303],[3ED:303],[3ED:303],[3ED:303],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[KTK:249],[KTK:249],[KTK:249],[KTK:249],[TSB:120],[TSB:120],[HOU:189])([NPH:35],[NPH:35],[NPH:35],[NPH:35])
+LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|

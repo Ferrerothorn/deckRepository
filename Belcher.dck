@@ -1,0 +1,18 @@
+4 [CHK:163] Desperate Ritual
+4 [SHM:211] Manamorphose
+4 [MMQ:255] Land Grant
+3 [MRD:152] Chrome Mox
+4 [CSP:96] Rite of Flame
+4 [ICE:158] Tinder Wall
+4 [M11:153] Pyretic Ritual
+4 [TMP:284] Lotus Petal
+4 [9ED:216] Seething Song
+1 [3ED:302] Taiga
+4 [TSP:152] Empty the Warrens
+4 [ALL:69] Elvish Spirit Guide
+4 [NPH:35] Gitaxian Probe
+4 [MIR:272] Lion's Eye Diamond
+4 [MRD:176] Goblin Charbelcher
+4 [PLC:122] Simian Spirit Guide
+LAYOUT MAIN:(1,5)(COLOR,false,50)|([3ED:302],[MRD:152],[MRD:152],[MRD:152],[TMP:284],[TMP:284],[TMP:284],[TMP:284],[MRD:176],[MRD:176],[MRD:176],[MRD:176],[MIR:272],[MIR:272],[MIR:272],[MIR:272])([NPH:35],[NPH:35],[NPH:35],[NPH:35])([ALL:69],[ALL:69],[ALL:69],[ALL:69],[MMQ:255],[MMQ:255],[MMQ:255],[MMQ:255],[ICE:158],[ICE:158],[ICE:158],[ICE:158])([PLC:122],[PLC:122],[PLC:122],[PLC:122],[CSP:96],[CSP:96],[CSP:96],[CSP:96],[CHK:163],[CHK:163],[CHK:163],[CHK:163],[M11:153],[M11:153],[M11:153],[M11:153],[9ED:216],[9ED:216],[9ED:216],[9ED:216],[TSP:152],[TSP:152],[TSP:152],[TSP:152])([SHM:211],[SHM:211],[SHM:211],[SHM:211])
+LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|

@@ -1,0 +1,33 @@
+1 [CMD:170] Scavenging Ooze
+1 [EMA:215] Deathrite Shaman
+1 [V12:10] Maze of Ith
+1 [C13:96] Toxic Deluge
+1 [ODY:315] Cabal Pit
+4 [TPR:228] Mox Diamond
+3 [V12:8] Grove of the Burnwillows
+4 [JR:55] Wasteland
+4 [EXP:23] Verdant Catacombs
+2 [MMA:153] Life from the Loam
+4 [MM2:75] Dark Confidant
+4 [MPS:33] Chalice of the Void
+1 [LEB:298] Taiga
+1 [LRW:248] Gaddock Teeg
+3 [DDG:66] Punishing Fire
+1 [CSP:145] Dark Depths
+1 [DD3EVG:27] Tranquil Thicket
+1 [2ED:278] Badlands
+3 [WMCQ:4] Liliana of the Veil
+4 [CON:113] Knight of the Reliquary
+1 [GTC:248] Thespian's Stage
+1 [DD3DVD:58] Barren Moor
+1 [JR:47] Wooded Foothills
+1 [EMA:240] Karakas
+2 [V13:19] Green Sun's Zenith
+2 [ME3:204] Bayou
+1 [VMA:313] Scrubland
+1 [ME4:250] Savannah
+1 [RAV:305] Forest
+1 [V12:5] Dryad Arbor
+3 [MM3:146] Abrupt Decay
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([MPS:33],[MPS:33],[MPS:33],[MPS:33],[TPR:228],[TPR:228],[TPR:228],[TPR:228])([V12:5])([CON:113],[CON:113],[CON:113],[CON:113],[MM2:75],[MM2:75],[MM2:75],[MM2:75],[EMA:215],[CMD:170],[LRW:248])([MM3:146],[MM3:146],[MM3:146],[DDG:66],[DDG:66],[DDG:66])([JR:55],[JR:55],[JR:55],[JR:55],[ME3:204],[ME3:204],[ME4:250],[VMA:313],[2ED:278],[LEB:298],[EXP:23],[EXP:23],[EXP:23],[EXP:23],[V12:8],[V12:8],[V12:8],[JR:47],[CSP:145],[GTC:248],[ODY:315],[RAV:305],[DD3DVD:58],[DD3EVG:27],[V12:10],[EMA:240])([WMCQ:4],[WMCQ:4],[WMCQ:4])([MMA:153],[MMA:153],[V13:19],[V13:19],[C13:96])
+LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|

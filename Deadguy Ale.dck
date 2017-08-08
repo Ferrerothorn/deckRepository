@@ -1,0 +1,26 @@
+4 [LEB:38] Sinkhole
+4 [TMP:340] Wasteland
+4 [EMA:215] Deathrite Shaman
+4 [MM2:165] Tarmogoyf
+4 [FEM:13] Hymn to Tourach
+4 [JR:78] Vindicate
+4 [MM2:75] Dark Confidant
+4 [3ED:225] Swords to Plowshares
+3 [LEB:279] Bayou
+4 [CN2:140] Inquisition of Kozilek
+4 [ZEN:229] Verdant Catacombs
+1 [KTK:251] Plains
+4 [MM3:12] Lingering Souls
+1 [KTK:260] Swamp
+2 [VMA:313] Scrubland
+1 [RAV:304] Forest
+4 [WMCQ:6] Abrupt Decay
+4 [MM3:239] Marsh Flats
+SB: 3 [EMA:178] Nature's Claim
+SB: 3 [SOM:187] Nihil Spellbomb
+SB: 2 [M13:90] Duress
+SB: 3 [M11:21] Leyline of Sanctity
+SB: 1 [M14:97] Duress
+SB: 3 [ULG:51] Engineered Plague
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([MM2:75],[MM2:75],[MM2:75],[MM2:75],[EMA:215],[EMA:215],[EMA:215],[EMA:215],[MM2:165],[MM2:165],[MM2:165],[MM2:165])([WMCQ:6],[WMCQ:6],[WMCQ:6],[WMCQ:6],[3ED:225],[3ED:225],[3ED:225],[3ED:225])([LEB:279],[LEB:279],[LEB:279],[RAV:304],[MM3:239],[MM3:239],[MM3:239],[MM3:239],[KTK:251],[VMA:313],[VMA:313],[KTK:260],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[TMP:340],[TMP:340],[TMP:340],[TMP:340])([FEM:13],[FEM:13],[FEM:13],[FEM:13],[CN2:140],[CN2:140],[CN2:140],[CN2:140],[MM3:12],[MM3:12],[MM3:12],[MM3:12],[LEB:38],[LEB:38],[LEB:38],[LEB:38],[JR:78],[JR:78],[JR:78],[JR:78])
+LAYOUT SIDEBOARD:(1,5)(CARD_TYPE,false,50)|([M13:90],[M13:90],[M14:97])([EMA:178],[EMA:178],[EMA:178])([SOM:187],[SOM:187],[SOM:187])([ULG:51],[ULG:51],[ULG:51])([M11:21],[M11:21],[M11:21])
