@@ -1,0 +1,21 @@
+4 [ZEN:180] River Boa
+4 [MMQ:255] Land Grant
+4 [GPT:96] Skarrgan Pit-Skulk
+4 [ALL:63] Bounty of the Hunt
+3 [5ED:160] Ghazban Ogre
+4 [EXO:123] Skyshroud Elite
+4 [M14:174] Giant Growth
+4 [ME3:125] Jungle Lion
+4 [M13:185] Rancor
+4 [ALL:69] Elvish Spirit Guide
+4 [WTH:81] Rogue Elephant
+9 [HOU:189] Forest
+4 [MMQ:284] Vine Dryad
+4 [VIS:67] Quirion Ranger
+SB: 3 [5ED:408] Winter Orb
+SB: 2 [MIR:143] Tranquil Domain
+SB: 4 [MMQ:266] Rushwood Legate
+SB: 2 [DTK:193] Naturalize
+SB: 4 [ULG:104] Hidden Gibbons
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,50)|([ALL:69],[ALL:69],[ALL:69],[ALL:69],[VIS:67],[VIS:67],[VIS:67],[VIS:67],[EXO:123],[EXO:123],[EXO:123],[EXO:123],[MMQ:284],[MMQ:284],[MMQ:284],[MMQ:284],[ZEN:180],[ZEN:180],[ZEN:180],[ZEN:180],[ME3:125],[ME3:125],[ME3:125],[ME3:125],[WTH:81],[WTH:81],[WTH:81],[WTH:81],[GPT:96],[GPT:96],[GPT:96],[GPT:96],[5ED:160],[5ED:160],[5ED:160])([M13:185],[M13:185],[M13:185],[M13:185])([ALL:63],[ALL:63],[ALL:63],[ALL:63],[M14:174],[M14:174],[M14:174],[M14:174])([HOU:189],[HOU:189],[HOU:189],[HOU:189],[HOU:189],[HOU:189],[HOU:189],[HOU:189],[HOU:189])([MMQ:255],[MMQ:255],[MMQ:255],[MMQ:255])
+LAYOUT SIDEBOARD:(1,4)(CARD_TYPE,false,50)|([5ED:408],[5ED:408],[5ED:408])([MMQ:266],[MMQ:266],[MMQ:266],[MMQ:266])([ULG:104],[ULG:104],[ULG:104],[ULG:104])([DTK:193],[DTK:193],[MIR:143],[MIR:143])
