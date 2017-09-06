@@ -1,0 +1,29 @@
+4 [BFZ:4] Conduit of Ruin
+1 [BFZ:3] Breaker of Armies
+4 [MRD:280] Cloudpost
+4 [MRD:150] Chalice of the Void
+1 [MM2:5] Kozilek, Butcher of Truth
+4 [ROE:227] Eldrazi Temple
+2 [DST:154] Trinisphere
+4 [WWK:136] Eye of Ugin
+3 [EXO:143] City of Traitors
+1 [OGW:3] Endbringer
+1 [OGW:4] Kozilek, the Great Distortion
+1 [M15:248] Urborg, Tomb of Yawgmoth
+2 [TSP:281] Vesuva
+4 [OGW:2] Eldrazi Mimic
+4 [TMP:305] Ancient Tomb
+4 [SOM:227] Glimmerpost
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+3 [MM2:1] All Is Dust
+4 [OGW:7] Reality Smasher
+4 [OGW:9] Thought-Knot Seer
+4 [ULG:126] Grim Monolith
+SB: 2 [OGW:3] Endbringer
+SB: 2 [LRW:262] Thorn of Amethyst
+SB: 3 [MPS:44] Pithing Needle
+SB: 2 [OGW:8] Spatial Contortion
+SB: 4 [EMA:231] Relic of Progenitus
+SB: 2 [6ED:278] Cursed Totem
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([MRD:150],[MRD:150],[MRD:150],[MRD:150],[ULG:126],[ULG:126],[ULG:126],[ULG:126],[DST:154],[DST:154])([OGW:9],[OGW:9],[OGW:9],[OGW:9],[OGW:7],[OGW:7],[OGW:7],[OGW:7],[OGW:2],[OGW:2],[OGW:2],[OGW:2],[BFZ:4],[BFZ:4],[BFZ:4],[BFZ:4],[BFZ:15],[MM2:5],[OGW:4],[OGW:3],[BFZ:3])([TMP:305],[TMP:305],[TMP:305],[TMP:305],[EXO:143],[EXO:143],[EXO:143],[WWK:136],[WWK:136],[WWK:136],[WWK:136],[ROE:227],[ROE:227],[ROE:227],[ROE:227],[MRD:280],[MRD:280],[MRD:280],[MRD:280],[SOM:227],[SOM:227],[SOM:227],[SOM:227],[M15:248],[TSP:281],[TSP:281])([MM2:1],[MM2:1],[MM2:1])
+LAYOUT SIDEBOARD:(1,1)(CARD_TYPE,false,50)|([LRW:262],[LRW:262],[EMA:231],[EMA:231],[EMA:231],[EMA:231],[MPS:44],[MPS:44],[MPS:44],[6ED:278],[6ED:278],[OGW:8],[OGW:8],[OGW:3],[OGW:3])

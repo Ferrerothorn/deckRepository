@@ -1,0 +1,27 @@
+4 [MMQ:129] Dark Ritual
+1 [SCG:75] Tendrils of Agony
+4 [MRD:152] Chrome Mox
+1 [3ED:283] Bayou
+1 [MOR:50] Slithermuse
+4 [EXO:55] Culling the Weak
+4 [TMP:284] Lotus Petal
+1 [FUT:174] Dryad Arbor
+4 [SCG:135] Xantid Swarm
+4 [DIS:46] Infernal Tutor
+4 [ZEN:229] Verdant Catacombs
+4 [ALL:69] Elvish Spirit Guide
+4 [FUT:139] Summoner's Pact
+1 [5DN:86] Eternal Witness
+4 [TOR:51] Cabal Ritual
+4 [MIR:272] Lion's Eye Diamond
+4 [VMA:111] Cruel Bargain
+4 [7ED:143] Infernal Contract
+3 [PLS:42] Diabolic Intent
+SB: 1 [M12:90] Deathmark
+SB: 3 [RAV:81] Dark Confidant
+SB: 1 [DST:79] Oxidize
+SB: 2 [3ED:283] Bayou
+SB: 4 [USG:240] Carpet of Flowers
+SB: 4 [M12:164] Autumn's Veil
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([MIR:272],[MIR:272],[MIR:272],[MIR:272],[TMP:284],[TMP:284],[TMP:284],[TMP:284],[MRD:152],[MRD:152],[MRD:152],[MRD:152])([FUT:174])([MOR:50],[5DN:86],[SCG:135],[SCG:135],[SCG:135],[SCG:135],[ALL:69],[ALL:69],[ALL:69],[ALL:69])([FUT:139],[FUT:139],[FUT:139],[FUT:139],[MMQ:129],[MMQ:129],[MMQ:129],[MMQ:129],[TOR:51],[TOR:51],[TOR:51],[TOR:51],[EXO:55],[EXO:55],[EXO:55],[EXO:55])([ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[3ED:283])([SCG:75],[PLS:42],[PLS:42],[PLS:42],[DIS:46],[DIS:46],[DIS:46],[DIS:46],[7ED:143],[7ED:143],[7ED:143],[7ED:143],[VMA:111],[VMA:111],[VMA:111],[VMA:111])
+LAYOUT SIDEBOARD:(1,4)(CARD_TYPE,false,50)|([RAV:81],[RAV:81],[RAV:81],[USG:240],[USG:240],[USG:240],[USG:240])([M12:164],[M12:164],[M12:164],[M12:164],[DST:79])([3ED:283],[3ED:283])([M12:90])

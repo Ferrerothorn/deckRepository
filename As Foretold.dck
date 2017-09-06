@@ -1,0 +1,24 @@
+1 [M12:39] Sun Titan
+1 [AVR:79] Tamiyo, the Moon Sage
+1 [M13:227] Reliquary Tower
+4 [ALL:42] Force of Will
+1 [KTK:239] Polluted Delta
+4 [ZEN:220] Misty Rainforest
+4 [AKH:42] As Foretold
+1 [PLC:54] Frozen Aether
+4 [MMQ:61] Brainstorm
+1 [ONS:73] Chain of Vapor
+4 [KTK:233] Flooded Strand
+2 [MMQ:108] Thwart
+2 [TSP:38] Restore Balance
+1 [MMQ:87] Misdirection
+4 [TSP:48] Ancestral Vision
+3 [3ED:304] Tundra
+4 [NEM:30] Daze
+1 [PLS:139] Forsaken City
+2 [WWK:31] Jace, the Mind Sculptor
+10 [HOU:186] Island
+1 [SOM:135] Venser, the Sojourner
+4 [5ED:127] Stasis
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([M12:39])([5ED:127],[5ED:127],[5ED:127],[5ED:127],[PLC:54],[AKH:42],[AKH:42],[AKH:42],[AKH:42])([NEM:30],[NEM:30],[NEM:30],[NEM:30],[ALL:42],[ALL:42],[ALL:42],[ALL:42],[MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[ONS:73],[MMQ:108],[MMQ:108],[MMQ:87])([HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[PLS:139],[M13:227],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[KTK:239],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[3ED:304],[3ED:304],[3ED:304])([WWK:31],[WWK:31],[AVR:79],[SOM:135])([TSP:48],[TSP:48],[TSP:48],[TSP:48],[TSP:38],[TSP:38])
+LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|

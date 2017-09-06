@@ -1,0 +1,27 @@
+4 [ALL:42] Force of Will
+1 [BOK:163] Umezawa's Jitte
+4 [MMQ:61] Brainstorm
+1 [3ED:296] Plateau
+2 [ISD:78] Snapcaster Mage
+2 [ZEN:67] Spell Pierce
+4 [ZEN:223] Scalding Tarn
+3 [3ED:306] Volcanic Island
+2 [NPH:33] Deceiver Exarch
+2 [3ED:304] Tundra
+4 [WWK:20] Stoneforge Mystic
+4 [HOU:186] Island
+1 [HOU:185] Plains
+4 [M12:73] Ponder
+1 [HOU:188] Mountain
+1 [C13:63] True-Name Nemesis
+3 [LRW:78] Pestermite
+4 [ICE:278] Swords to Plowshares
+1 [NPH:130] Batterskull
+1 [ZEN:211] Arid Mesa
+3 [ROE:165] Splinter Twin
+4 [KTK:233] Flooded Strand
+1 [7ED:67] Counterspell
+2 [MOR:55] Vendilion Clique
+1 [WWK:31] Jace, the Mind Sculptor
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([BOK:163],[NPH:130])([ISD:78],[ISD:78],[WWK:20],[WWK:20],[WWK:20],[WWK:20],[NPH:33],[NPH:33],[LRW:78],[LRW:78],[LRW:78],[C13:63],[MOR:55],[MOR:55])([ROE:165],[ROE:165],[ROE:165])([MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[ZEN:67],[ZEN:67],[ICE:278],[ICE:278],[ICE:278],[ICE:278],[7ED:67],[ALL:42],[ALL:42],[ALL:42],[ALL:42])([ZEN:211],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:188],[HOU:185],[3ED:296],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[3ED:304],[3ED:304],[3ED:306],[3ED:306],[3ED:306])([WWK:31])([M12:73],[M12:73],[M12:73],[M12:73])
+LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|

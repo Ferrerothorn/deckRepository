@@ -1,0 +1,28 @@
+2 [EMA:222] Goblin Charbelcher
+4 [POR:8] Cruel Bargain
+4 [MIR:27] Infernal Contract
+2 [FNMP:95] Tendrils of Agony
+4 [VIS:152] Phyrexian Walker
+4 [MMQ:255] Land Grant
+1 [MOR:50] Slithermuse
+4 [EXO:55] Culling the Weak
+1 [CMA:146] Skullwinder
+4 [HOP:24] Dark Ritual
+4 [DIS:46] Infernal Tutor
+4 [VMA:106] Cabal Ritual
+4 [MED:166] Shield Sphere
+4 [MIR:272] Lion's Eye Diamond
+4 [EMA:219] Chrome Mox
+4 [MM2:223] Mox Opal
+1 [V12:5] Dryad Arbor
+1 [VMA:293] Bayou
+4 [V09:7] Lotus Petal
+SB: 2 [MMA:112] Empty the Warrens
+SB: 1 [DST:79] Oxidize
+SB: 4 [EMA:83] Cabal Therapy
+SB: 4 [EMA:86] Duress
+SB: 1 [C16:131] Past in Flames
+SB: 2 [EMA:193] Xantid Swarm
+SB: 1 [2ED:279] Bayou
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([VIS:152],[VIS:152],[VIS:152],[VIS:152],[MED:166],[MED:166],[MED:166],[MED:166])([EMA:222],[EMA:222],[V09:7],[V09:7],[V09:7],[V09:7],[MIR:272],[MIR:272],[MIR:272],[MIR:272],[EMA:219],[EMA:219],[EMA:219],[EMA:219],[MM2:223],[MM2:223],[MM2:223],[MM2:223])([V12:5])([MOR:50],[CMA:146])([HOP:24],[HOP:24],[HOP:24],[HOP:24],[VMA:106],[VMA:106],[VMA:106],[VMA:106],[EXO:55],[EXO:55],[EXO:55],[EXO:55])([VMA:293])([FNMP:95],[FNMP:95],[POR:8],[POR:8],[POR:8],[POR:8],[MIR:27],[MIR:27],[MIR:27],[MIR:27],[DIS:46],[DIS:46],[DIS:46],[DIS:46],[MMQ:255],[MMQ:255],[MMQ:255],[MMQ:255])
+LAYOUT SIDEBOARD:(1,2)(CARD_TYPE,false,50)|([2ED:279],[EMA:86],[EMA:86],[EMA:86],[EMA:86],[EMA:83],[EMA:83],[EMA:83],[EMA:83],[DST:79])([MMA:112],[MMA:112],[C16:131],[EMA:193],[EMA:193])

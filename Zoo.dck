@@ -1,0 +1,35 @@
+4 [ALA:152] Wild Nacatl
+3 [CON:113] Knight of the Reliquary
+1 [WWK:142] Sejiri Steppe
+4 [M11:149] Lightning Bolt
+4 [9ED:199] Kird Ape
+2 [KTK:248] Windswept Heath
+4 [KTK:249] Wooded Foothills
+3 [ZEN:211] Arid Mesa
+1 [FUT:177] Horizon Canopy
+4 [FUT:153] Tarmogoyf
+2 [M14:195] Scavenging Ooze
+2 [3ED:297] Savannah
+2 [3ED:296] Plateau
+2 [3ED:302] Taiga
+3 [CON:15] Path to Exile
+1 [ISD:243] Kessig Wolf Run
+2 [ARB:75] Qasali Pridemage
+4 [ZEN:126] Goblin Guide
+1 [HOU:189] Forest
+2 [GTC:167] Ghor-Clan Rampager
+4 [LEG:137] Chain Lightning
+3 [DKA:24] Thalia, Guardian of Thraben
+1 [HOU:185] Plains
+1 [HOU:188] Mountain
+SB: 2 [ALA:10] Ethersworn Canonist
+SB: 1 [LEG:248] Karakas
+SB: 2 [5ED:262] Pyroblast
+SB: 2 [ORI:8] Celestial Flare
+SB: 1 [DRK:114] Maze of Ith
+SB: 2 [MPS-AKH:3] Containment Priest
+SB: 2 [SHM:66] Faerie Macabre
+SB: 1 [M11:154] Pyroclasm
+SB: 2 [ISD:127] Ancient Grudge
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([ALA:152],[ALA:152],[ALA:152],[ALA:152],[9ED:199],[9ED:199],[9ED:199],[9ED:199],[ZEN:126],[ZEN:126],[ZEN:126],[ZEN:126],[FUT:153],[FUT:153],[FUT:153],[FUT:153],[DKA:24],[DKA:24],[DKA:24],[ARB:75],[ARB:75],[M14:195],[M14:195],[CON:113],[CON:113],[CON:113],[GTC:167],[GTC:167])([M11:149],[M11:149],[M11:149],[M11:149],[CON:15],[CON:15],[CON:15])([3ED:296],[3ED:296],[3ED:302],[3ED:302],[3ED:297],[3ED:297],[KTK:249],[KTK:249],[KTK:249],[KTK:249],[KTK:248],[KTK:248],[ZEN:211],[ZEN:211],[ZEN:211],[FUT:177],[ISD:243],[WWK:142],[HOU:189],[HOU:188],[HOU:185])([LEG:137],[LEG:137],[LEG:137],[LEG:137])
+LAYOUT SIDEBOARD:(1,5)(CARD_TYPE,false,50)|([ALA:10],[ALA:10])([MPS-AKH:3],[MPS-AKH:3],[SHM:66],[SHM:66])([5ED:262],[5ED:262],[ISD:127],[ISD:127],[ORI:8],[ORI:8])([LEG:248],[DRK:114])([M11:154])
