@@ -1,8 +1,8 @@
 1 [MMA:47] Glen Elendra Archmage
+1 [V11:10] Rafiq of the Many
 2 [TSP:215] Scryb Ranger
 1 [CMA:186] Meren of Clan Nel Toth
 4 [ZEN:220] Misty Rainforest
-1 [M15:194] Reclamation Sage
 3 [MBS:81] Green Sun's Zenith
 1 [BOK:163] Umezawa's Jitte
 2 [3ED:297] Savannah
@@ -13,14 +13,15 @@
 4 [M11:172] Fauna Shaman
 4 [ZEN:229] Verdant Catacombs
 1 [CN2:77] Leovold, Emissary of Trest
+1 [M15:225] Phyrexian Revoker
 2 [3ED:303] Tropical Island
 3 [DST:91] Aether Vial
 1 [HOU:189] Forest
+1 [JOU:151] Keranos, God of Storms
 1 [WWK:20] Stoneforge Mystic
 3 [ULG:14] Mother of Runes
 1 [C13:63] True-Name Nemesis
 2 [3ED:283] Bayou
-1 [C16:28] Atraxa, Praetors' Voice
 1 [5ED:191] Sylvan Library
 2 [M12:165] Birds of Paradise
 1 [M14:195] Scavenging Ooze
@@ -30,9 +31,9 @@
 2 [ARB:75] Qasali Pridemage
 2 [RTR:213] Deathrite Shaman
 1 [TSB:95] Merieke Ri Berit
+1 [ARB:8] Meddling Mage
 1 [LRW:139] Shriekmaw
-2 [CN2:23] Sanctum Prelate
-1 [GPT:124] Orzhov Pontiff
+1 [CN2:23] Sanctum Prelate
 SB: 2 [ZEN:57] Mindbreak Trap
 SB: 2 [RTR:231] Pithing Needle
 SB: 1 [C16:4] Selfless Squire
@@ -40,10 +41,10 @@ SB: 1 [M11:21] Leyline of Sanctity
 SB: 2 [SOI:68] Invasive Surgery
 SB: 1 [LRW:248] Gaddock Teeg
 SB: 1 [FUT:101] Magus of the Moon
-SB: 1 [M11:101] Leyline of the Void
 SB: 1 [USG:76] Gilded Drake
 SB: 1 [MBS:14] Mirran Crusader
+SB: 1 [WTH:138] Peacekeeper
 SB: 1 [RTR:173] Izzet Staticaster
 SB: 1 [GPT:124] Orzhov Pontiff
-LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([DST:91],[DST:91],[DST:91],[BOK:163])([FUT:174])([M12:165],[M12:165],[RTR:213],[RTR:213],[CON:87],[ULG:14],[ULG:14],[ULG:14],[M11:172],[M11:172],[M11:172],[M11:172],[ARB:75],[ARB:75],[TSP:215],[TSP:215],[M14:195],[WWK:20],[CN2:77],[TSB:95],[RTR:173],[GPT:124],[M15:194],[CN2:23],[CN2:23],[C13:63],[MOR:55],[C16:28],[CMA:186],[FRF:113],[LRW:139],[MMA:47])([5ED:191])([RTR:141],[RTR:141],[RTR:141])([ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[3ED:303],[3ED:303],[3ED:297],[3ED:297],[3ED:283],[3ED:283],[3ED:302],[HOU:189])([MBS:81],[MBS:81],[MBS:81])
-LAYOUT SIDEBOARD:(1,4)(CARD_TYPE,false,50)|([RTR:231],[RTR:231])([LRW:248],[USG:76],[FUT:101],[MBS:14],[RTR:173],[GPT:124],[C16:4])([M11:101],[M11:21])([SOI:68],[SOI:68],[ZEN:57],[ZEN:57])
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([M15:225])([DST:91],[DST:91],[DST:91],[BOK:163])([JOU:151])([FUT:174])([M12:165],[M12:165],[RTR:213],[RTR:213],[CON:87],[ULG:14],[ULG:14],[ULG:14],[M11:172],[M11:172],[M11:172],[M11:172],[ARB:75],[ARB:75],[TSP:215],[TSP:215],[M14:195],[WWK:20],[CN2:77],[TSB:95],[RTR:173],[CN2:23],[C13:63],[MOR:55],[CMA:186],[FRF:113],[LRW:139],[MMA:47],[V11:10],[ARB:8])([5ED:191])([RTR:141],[RTR:141],[RTR:141])([ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[3ED:303],[3ED:303],[3ED:297],[3ED:297],[3ED:283],[3ED:283],[3ED:302],[HOU:189])([MBS:81],[MBS:81],[MBS:81])
+LAYOUT SIDEBOARD:(1,4)(CARD_TYPE,false,50)|([RTR:231],[RTR:231])([LRW:248],[USG:76],[RTR:173],[FUT:101],[MBS:14],[GPT:124],[WTH:138],[C16:4])([M11:21])([SOI:68],[SOI:68],[ZEN:57],[ZEN:57])
