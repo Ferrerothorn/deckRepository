@@ -1,31 +1,29 @@
-1 [10E:338] Pithing Needle
-2 [HOP:124] Relic of Progenitus
-1 [E01:50] Grim Lavamancer
-1 [MM2:79] Dismember
-1 [CNS:108] Stifle
-2 [SCG:100] Pyrostatic Pillar
-2 [EMA:55] Hydroblast
-2 [MM3:51] Spell Pierce
-3 [EMA:142] Pyroblast
-SB: 4 [EMA:123] Chain Lightning
-SB: 2 [HOU:192] Island
-SB: 1 [MM2:122] Lightning Bolt
-SB: 3 [M11:149] Lightning Bolt
-SB: 2 [RAV:302] Mountain
-SB: 4 [ALL:42] Force of Will
-SB: 4 [KTK:118] Monastery Swiftspear
-SB: 3 [OGW:159] Stormchaser Mage
-SB: 4 [ZEN:220] Misty Rainforest
-SB: 2 [EMA:141] Price of Progress
-SB: 2 [EMN:118] Bedlam Reveler
-SB: 4 [MMQ:61] Brainstorm
-SB: 2 [3ED:306] Volcanic Island
-SB: 4 [ZEN:223] Scalding Tarn
-SB: 4 [NEM:30] Daze
-SB: 4 [NPH:35] Gitaxian Probe
-SB: 2 [MM3:229] Arid Mesa
-SB: 4 [ISD:51] Delver of Secrets
-SB: 1 [DD3JVC:55] Fireblast
-SB: 4 [M12:73] Ponder
-LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([HOP:124],[HOP:124],[10E:338])([E01:50])([SCG:100],[SCG:100])([MM2:79],[MM3:51],[MM3:51],[EMA:142],[EMA:142],[EMA:142],[EMA:55],[EMA:55],[CNS:108])
-LAYOUT SIDEBOARD:(1,4)(CARD_TYPE,false,50)|([EMN:118],[EMN:118],[ISD:51],[ISD:51],[ISD:51],[ISD:51],[KTK:118],[KTK:118],[KTK:118],[KTK:118],[OGW:159],[OGW:159],[OGW:159])([MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[NEM:30],[NEM:30],[NEM:30],[NEM:30],[DD3JVC:55],[ALL:42],[ALL:42],[ALL:42],[ALL:42],[M11:149],[M11:149],[M11:149],[MM2:122],[EMA:141],[EMA:141])([MM3:229],[MM3:229],[HOU:192],[HOU:192],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[RAV:302],[RAV:302],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[3ED:306],[3ED:306])([EMA:123],[EMA:123],[EMA:123],[EMA:123],[NPH:35],[NPH:35],[NPH:35],[NPH:35],[M12:73],[M12:73],[M12:73],[M12:73])
+4 [EMA:123] Chain Lightning
+2 [HOU:192] Island
+1 [MM2:122] Lightning Bolt
+3 [M11:149] Lightning Bolt
+2 [RAV:302] Mountain
+4 [ALL:42] Force of Will
+4 [KTK:118] Monastery Swiftspear
+3 [OGW:159] Stormchaser Mage
+4 [ZEN:220] Misty Rainforest
+2 [EMA:141] Price of Progress
+2 [EMN:118] Bedlam Reveler
+4 [MMQ:61] Brainstorm
+2 [3ED:306] Volcanic Island
+4 [ZEN:223] Scalding Tarn
+4 [NEM:30] Daze
+4 [NPH:35] Gitaxian Probe
+2 [MM3:229] Arid Mesa
+4 [ISD:51] Delver of Secrets
+1 [DD3JVC:55] Fireblast
+4 [M12:73] Ponder
+SB: 1 [10E:338] Pithing Needle
+SB: 2 [HOP:124] Relic of Progenitus
+SB: 1 [E01:50] Grim Lavamancer
+SB: 1 [MM2:79] Dismember
+SB: 1 [CNS:108] Stifle
+SB: 2 [SCG:100] Pyrostatic Pillar
+SB: 2 [EMA:55] Hydroblast
+SB: 2 [MM3:51] Spell Pierce
+SB: 3 [EMA:142] Pyroblast
