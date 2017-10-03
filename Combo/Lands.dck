@@ -1,0 +1,25 @@
+4 [TMP:340] Wasteland
+4 [MMQ:324] Rishadan Port
+2 [ONS:326] Tranquil Thicket
+1 [JUD:143] Riftstone Portal
+1 [ICE:331] Glacial Chasm
+3 [GTC:248] Thespian's Stage
+2 [ODY:313] Barbarian Ring
+1 [WWK:132] Bojuka Bog
+4 [STH:132] Mox Diamond
+1 [KTK:248] Windswept Heath
+3 [KTK:249] Wooded Foothills
+4 [RAV:172] Life from the Loam
+3 [EXO:113] Manabond
+4 [4ED:181] Mishra's Factory
+2 [3ED:302] Taiga
+1 [LEG:248] Karakas
+4 [USG:188] Gamble
+3 [DRK:114] Maze of Ith
+3 [CSP:145] Dark Depths
+1 [HOU:189] Forest
+4 [USG:250] Exploration
+1 [LEG:252] The Tabernacle at Pendrell Vale
+4 [ULG:98] Crop Rotation
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,50)|([STH:132],[STH:132],[STH:132],[STH:132])([USG:250],[USG:250],[USG:250],[USG:250],[EXO:113],[EXO:113],[EXO:113])([ULG:98],[ULG:98],[ULG:98],[ULG:98])([MMQ:324],[MMQ:324],[MMQ:324],[MMQ:324],[TMP:340],[TMP:340],[TMP:340],[TMP:340],[4ED:181],[4ED:181],[4ED:181],[4ED:181],[KTK:249],[KTK:249],[KTK:249],[KTK:248],[GTC:248],[GTC:248],[GTC:248],[CSP:145],[CSP:145],[CSP:145],[DRK:114],[DRK:114],[DRK:114],[ODY:313],[ODY:313],[ONS:326],[ONS:326],[3ED:302],[3ED:302],[LEG:252],[WWK:132],[LEG:248],[ICE:331],[HOU:189],[JUD:143])([RAV:172],[RAV:172],[RAV:172],[RAV:172],[USG:188],[USG:188],[USG:188],[USG:188])
+LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|

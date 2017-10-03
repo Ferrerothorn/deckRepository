@@ -1,0 +1,30 @@
+4 [MMQ:129] Dark Ritual
+4 [XLN:105] Duress
+1 [ALA:63] Ad Nauseam
+4 [MRD:152] Chrome Mox
+3 [ZEN:220] Misty Rainforest
+4 [CSP:96] Rite of Flame
+4 [MMQ:61] Brainstorm
+4 [JUD:83] Burning Wish
+4 [TMP:284] Lotus Petal
+4 [KTK:233] Flooded Strand
+3 [TSP:152] Empty the Warrens
+4 [DIS:46] Infernal Tutor
+2 [3ED:306] Volcanic Island
+3 [3ED:305] Underground Sea
+4 [NPH:35] Gitaxian Probe
+4 [MIR:272] Lion's Eye Diamond
+4 [M12:73] Ponder
+SB: 1 [TSP:152] Empty the Warrens
+SB: 1 [CON:35] Telemin Performance
+SB: 3 [DST:21] Echoing Truth
+SB: 1 [SCG:75] Tendrils of Agony
+SB: 1 [ISD:155] Past in Flames
+SB: 1 [HOU:149] Consign // Oblivion
+SB: 1 [TSP:160] Grapeshot
+SB: 1 [6ED:65] Diminishing Returns
+SB: 1 [THS:107] Thoughtseize
+SB: 2 [DTK:150] Rending Volley
+SB: 2 [JUD:62] Cabal Therapy
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([MIR:272],[MIR:272],[MIR:272],[MIR:272],[TMP:284],[TMP:284],[TMP:284],[TMP:284],[MRD:152],[MRD:152],[MRD:152],[MRD:152])([ALA:63],[MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[MMQ:129],[MMQ:129],[MMQ:129],[MMQ:129])([KTK:233],[KTK:233],[KTK:233],[KTK:233],[ZEN:220],[ZEN:220],[ZEN:220],[3ED:305],[3ED:305],[3ED:305],[3ED:306],[3ED:306])([TSP:152],[TSP:152],[TSP:152],[JUD:83],[JUD:83],[JUD:83],[JUD:83],[DIS:46],[DIS:46],[DIS:46],[DIS:46],[XLN:105],[XLN:105],[XLN:105],[XLN:105],[NPH:35],[NPH:35],[NPH:35],[NPH:35],[M12:73],[M12:73],[M12:73],[M12:73],[CSP:96],[CSP:96],[CSP:96],[CSP:96])
+LAYOUT SIDEBOARD:(1,2)(CARD_TYPE,false,50)|([DST:21],[DST:21],[DST:21],[DTK:150],[DTK:150],[TSP:160])([SCG:75],[HOU:149],[TSP:152],[6ED:65],[ISD:155],[CON:35],[THS:107],[JUD:62],[JUD:62])

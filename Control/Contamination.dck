@@ -1,0 +1,18 @@
+4 [M12:108] Smallpox
+3 [C13:84] Ophiomancer
+3 [3ED:283] Bayou
+4 [ZEN:83] Bloodghast
+1 [BOK:163] Umezawa's Jitte
+7 [10E:373] Swamp
+4 [JUD:62] Cabal Therapy
+4 [MOR:58] Bitterblossom
+4 [TSP:120] Nether Traitor
+2 [KTK:230] Bloodstained Mire
+4 [ZEN:219] Marsh Flats
+4 [ZEN:87] Disfigure
+4 [RTR:213] Deathrite Shaman
+4 [USG:123] Contamination
+4 [MM3:249] Verdant Catacombs
+4 [ISD:105] Liliana of the Veil
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([BOK:163])([ZEN:83],[ZEN:83],[ZEN:83],[ZEN:83],[TSP:120],[TSP:120],[TSP:120],[TSP:120],[RTR:213],[RTR:213],[RTR:213],[RTR:213],[C13:84],[C13:84],[C13:84])([MOR:58],[MOR:58],[MOR:58],[MOR:58])([USG:123],[USG:123],[USG:123],[USG:123])([ZEN:87],[ZEN:87],[ZEN:87],[ZEN:87])([KTK:230],[KTK:230],[ZEN:219],[ZEN:219],[ZEN:219],[ZEN:219],[3ED:283],[3ED:283],[3ED:283],[10E:373],[10E:373],[10E:373],[10E:373],[10E:373],[10E:373],[10E:373],[MM3:249],[MM3:249],[MM3:249],[MM3:249])([ISD:105],[ISD:105],[ISD:105],[ISD:105])([M12:108],[M12:108],[M12:108],[M12:108],[JUD:62],[JUD:62],[JUD:62],[JUD:62])
+LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|

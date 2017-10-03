@@ -1,0 +1,25 @@
+4 [TMP:340] Wasteland
+2 [EMA:83] Cabal Therapy
+4 [M11:149] Lightning Bolt
+4 [ALL:42] Force of Will
+2 [KTK:239] Polluted Delta
+2 [ZEN:220] Misty Rainforest
+4 [EMA:44] Daze
+4 [MMQ:61] Brainstorm
+3 [M14:163] Young Pyromancer
+2 [KTK:233] Flooded Strand
+1 [ZEN:67] Spell Pierce
+1 [MOR:55] Vendilion Clique
+3 [3ED:306] Volcanic Island
+2 [ZEN:223] Scalding Tarn
+2 [FRF:72] Gurmag Angler
+2 [3ED:305] Underground Sea
+4 [RTR:213] Deathrite Shaman
+1 [3ED:303] Tropical Island
+4 [NPH:35] Gitaxian Probe
+1 [NPH:57] Dismember
+1 [M10:68] Ponder
+4 [ISD:51] Delver of Secrets
+3 [M12:73] Ponder
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([ISD:51],[ISD:51],[ISD:51],[ISD:51],[RTR:213],[RTR:213],[RTR:213],[RTR:213],[M14:163],[M14:163],[M14:163],[FRF:72],[FRF:72],[MOR:55])([ALL:42],[ALL:42],[ALL:42],[ALL:42],[M11:149],[M11:149],[M11:149],[M11:149],[MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[NPH:57],[ZEN:67],[EMA:44],[EMA:44],[EMA:44],[EMA:44])([TMP:340],[TMP:340],[TMP:340],[TMP:340],[3ED:306],[3ED:306],[3ED:306],[3ED:305],[3ED:305],[KTK:233],[KTK:233],[ZEN:220],[ZEN:220],[ZEN:223],[ZEN:223],[KTK:239],[KTK:239],[3ED:303])([NPH:35],[NPH:35],[NPH:35],[NPH:35],[M12:73],[M12:73],[M10:68],[M12:73],[EMA:83],[EMA:83])
+LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|

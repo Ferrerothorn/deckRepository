@@ -1,0 +1,37 @@
+1 [MMQ:336] Island
+1 [C13:32] Blue Sun's Zenith
+1 [E01:98] Island
+1 [4ED:179] Island
+2 [MBP:60] Turnabout
+1 [C15:101] Preordain
+1 [RAV:294] Island
+2 [MM3:51] Spell Pierce
+1 [MED:184] Island
+1 [C15:328] Island
+1 [ORI:260] Island
+3 [M11:70] Preordain
+1 [MED:185] Island
+1 [MIR:299] Island
+1 [VMA:57] Brain Freeze
+1 [ARENA:54] Island
+4 [USG:103] Time Spiral
+1 [TMP:76] Meditate
+4 [8ED:91] Merchant Scroll
+2 [ME4:187] Candelabra of Tawnos
+4 [M12:73] Ponder
+2 [ME2:58] Personal Tutor
+4 [JR:83] Force of Will
+1 [ORI:259] Island
+1 [ATQ:8] Candelabra of Tawnos
+1 [PC2:140] Island
+4 [EMA:40] Brainstorm
+4 [FEM:35] High Tide
+2 [FNMP:151] Gitaxian Probe
+1 [DDQ:73] Island
+1 [C13:341] Island
+1 [RTR:257] Island
+1 [SOI:287] Island
+1 [DD3JVC:33] Island
+1 [ARENA:9] Island
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([ME4:187],[ME4:187],[ATQ:8])([C13:32],[VMA:57],[TMP:76],[FEM:35],[FEM:35],[FEM:35],[FEM:35],[EMA:40],[EMA:40],[EMA:40],[EMA:40],[JR:83],[JR:83],[JR:83],[JR:83],[MBP:60],[MBP:60],[MM3:51],[MM3:51])([C15:328],[E01:98],[4ED:179],[MED:185],[RTR:257],[ORI:259],[MED:184],[C13:341],[ORI:260],[DDQ:73],[MIR:299],[SOI:287],[DD3JVC:33],[ARENA:54],[PC2:140],[RAV:294],[MMQ:336],[ARENA:9])([USG:103],[USG:103],[USG:103],[USG:103],[8ED:91],[8ED:91],[8ED:91],[8ED:91],[M12:73],[M12:73],[M12:73],[M12:73],[ME2:58],[ME2:58],[FNMP:151],[FNMP:151],[M11:70],[M11:70],[M11:70],[C15:101])
+LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|

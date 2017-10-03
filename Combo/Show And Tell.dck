@@ -1,0 +1,21 @@
+4 [GPX:11] Griselbrand
+4 [JR:83] Force of Will
+4 [JR:68] Sneak Attack
+4 [EXP:22] Scalding Tarn
+4 [FNMP:55] Brainstorm
+2 [JR:44] Flooded Strand
+4 [TMP:284] Lotus Petal
+2 [EXO:143] City of Traitors
+3 [ZEN:67] Spell Pierce
+3 [10E:369] Island
+4 [DDI:24] Preordain
+3 [VMA:324] Volcanic Island
+1 [EXP:16] Flooded Strand
+2 [NPH:35] Gitaxian Probe
+4 [MPRP:29] Ponder
+1 [P02:159] Mountain
+3 [V12:1] Ancient Tomb
+4 [CN2:121] Show and Tell
+4 [MBP:163] Emrakul, the Aeons Torn
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([TMP:284],[TMP:284],[TMP:284],[TMP:284])([GPX:11],[GPX:11],[GPX:11],[GPX:11],[MBP:163],[MBP:163],[MBP:163],[MBP:163])([JR:68],[JR:68],[JR:68],[JR:68])([ZEN:67],[ZEN:67],[ZEN:67],[FNMP:55],[FNMP:55],[FNMP:55],[FNMP:55],[JR:83],[JR:83],[JR:83],[JR:83])([VMA:324],[VMA:324],[VMA:324],[EXP:22],[EXP:22],[EXP:22],[EXP:22],[V12:1],[V12:1],[V12:1],[10E:369],[10E:369],[10E:369],[P02:159],[EXO:143],[EXO:143],[JR:44],[EXP:16],[JR:44])([CN2:121],[CN2:121],[CN2:121],[CN2:121],[NPH:35],[NPH:35],[DDI:24],[DDI:24],[DDI:24],[DDI:24],[MPRP:29],[MPRP:29],[MPRP:29],[MPRP:29])
+LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|

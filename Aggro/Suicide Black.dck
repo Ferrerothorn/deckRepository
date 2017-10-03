@@ -1,0 +1,21 @@
+3 [ONS:313] Bloodstained Mire
+7 [RAV:296] Swamp
+4 [EMA:215] Deathrite Shaman
+1 [GPX:5] Maelstrom Pulse
+1 [ROE:115] Inquisition of Kozilek
+4 [CSP:70] Soul Spike
+3 [ICE:8] Dark Ritual
+4 [ZEN:89] Gatekeeper of Malakir
+3 [MM3:64] Death's Shadow
+3 [6ED:139] Infernal Contract
+4 [FEM:12] Hymn to Tourach
+1 [KTK:72] Empty the Pits
+3 [NPH:57] Dismember
+4 [MM3:146] Abrupt Decay
+3 [VMA:111] Cruel Bargain
+3 [MPS-AKH:45] Thoughtseize
+3 [MM3:249] Verdant Catacombs
+3 [VMA:293] Bayou
+3 [MM3:239] Marsh Flats
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([EMA:215],[EMA:215],[EMA:215],[EMA:215],[ZEN:89],[ZEN:89],[ZEN:89],[ZEN:89],[MM3:64],[MM3:64],[MM3:64])([CSP:70],[CSP:70],[CSP:70],[CSP:70],[ICE:8],[ICE:8],[ICE:8],[NPH:57],[NPH:57],[NPH:57],[MM3:146],[MM3:146],[MM3:146],[MM3:146],[KTK:72])([MM3:239],[MM3:239],[MM3:239],[MM3:249],[MM3:249],[MM3:249],[ONS:313],[ONS:313],[ONS:313],[VMA:293],[VMA:293],[VMA:293],[RAV:296],[RAV:296],[RAV:296],[RAV:296],[RAV:296],[RAV:296],[RAV:296])([VMA:111],[VMA:111],[VMA:111],[6ED:139],[6ED:139],[6ED:139],[FEM:12],[FEM:12],[FEM:12],[FEM:12],[MPS-AKH:45],[MPS-AKH:45],[MPS-AKH:45],[GPX:5],[ROE:115])
+LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|

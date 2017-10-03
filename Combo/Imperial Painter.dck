@@ -1,0 +1,20 @@
+2 [GPX:4] Umezawa's Jitte
+5 [DD3JVC:61] Mountain
+3 [5ED:262] Pyroblast
+2 [JR:63] Goblin Welder
+3 [FUT:101] Magus of the Moon
+4 [MPS:20] Painter's Servant
+3 [MPS:9] Chrome Mox
+4 [EXO:143] City of Traitors
+4 [MPRP:40] Lightning Bolt
+3 [MMA:212] Pyrite Spellbomb
+4 [JR:104] Grindstone
+4 [LEA:170] Red Elemental Blast
+5 [DD3JVC:62] Mountain
+4 [PLC:122] Simian Spirit Guide
+4 [ME2:130] Imperial Recruiter
+4 [V12:1] Ancient Tomb
+1 [MBS:122] Phyrexian Revoker
+1 [MBP:18] Jaya Ballard, Task Mage
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,50)|([MBS:122],[MPS:20],[MPS:20],[MPS:20],[MPS:20])([JR:104],[JR:104],[JR:104],[JR:104],[GPX:4],[GPX:4],[MPS:9],[MPS:9],[MPS:9],[MMA:212],[MMA:212],[MMA:212])([JR:63],[JR:63],[ME2:130],[ME2:130],[ME2:130],[ME2:130],[FUT:101],[FUT:101],[FUT:101],[PLC:122],[PLC:122],[PLC:122],[PLC:122],[MBP:18])([MPRP:40],[MPRP:40],[MPRP:40],[MPRP:40],[LEA:170],[LEA:170],[LEA:170],[LEA:170],[5ED:262],[5ED:262],[5ED:262])([DD3JVC:62],[DD3JVC:62],[DD3JVC:62],[DD3JVC:62],[DD3JVC:62],[DD3JVC:61],[DD3JVC:61],[DD3JVC:61],[DD3JVC:61],[DD3JVC:61],[EXO:143],[EXO:143],[EXO:143],[EXO:143],[V12:1],[V12:1],[V12:1],[V12:1])
+LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|

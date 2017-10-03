@@ -1,0 +1,23 @@
+3 [AER:181] Walking Ballista
+1 [EMA:234] Winter Orb
+4 [MRD:150] Chalice of the Void
+1 [RAV:256] Bottled Cloister
+4 [TPR:249] Wasteland
+4 [PD3:24] Crystal Vein
+4 [V13:8] Tangle Wire
+2 [8ED:300] Ensnaring Bridge
+4 [DST:154] Trinisphere
+3 [V14:11] Smokestack
+1 [EMA:220] Duplicant
+4 [EXO:143] City of Traitors
+4 [MM2:219] Lodestone Golem
+1 [MLP:12] Steel Hellkite
+3 [MPS:11] Crucible of Worlds
+3 [C14:286] Buried Ruin
+3 [KLD:247] Inventors' Fair
+1 [SOM:223] Wurmcoil Engine
+4 [V12:1] Ancient Tomb
+2 [ULG:126] Grim Monolith
+4 [UDS:135] Metalworker
+LAYOUT MAIN:(1,3)(CARD_TYPE,false,50)|([MM2:219],[MM2:219],[MM2:219],[MM2:219],[UDS:135],[UDS:135],[UDS:135],[UDS:135],[MLP:12],[SOM:223],[EMA:220],[AER:181],[AER:181],[AER:181])([RAV:256],[MRD:150],[MRD:150],[MRD:150],[MRD:150],[MPS:11],[MPS:11],[MPS:11],[8ED:300],[8ED:300],[ULG:126],[ULG:126],[V14:11],[V14:11],[V14:11],[V13:8],[V13:8],[V13:8],[V13:8],[DST:154],[DST:154],[DST:154],[DST:154],[EMA:234])([V12:1],[V12:1],[V12:1],[V12:1],[C14:286],[C14:286],[C14:286],[EXO:143],[EXO:143],[EXO:143],[EXO:143],[PD3:24],[PD3:24],[PD3:24],[PD3:24],[KLD:247],[KLD:247],[KLD:247],[TPR:249],[TPR:249],[TPR:249],[TPR:249])
+LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|
