@@ -1,0 +1,23 @@
+4 [TMP:330] Wasteland
+2 [AER:57] Fatal Push
+4 [3ED:290] Underground Sea
+2 [3ED:283] Bayou
+4 [KTK:239] Polluted Delta
+4 [ZEN:220] Misty Rainforest
+3 [RTR:141] Abrupt Decay
+4 [MMQ:61] Brainstorm
+3 [FEM:38a] Hymn to Tourach
+4 [FUT:153] Tarmogoyf
+2 [THS:107] Thoughtseize
+4 [ALL:28] Force of Will
+1 [BBD:136] True-Name Nemesis
+1 [ZEN:229] Verdant Catacombs
+1 [3ED:288] Tropical Island
+2 [FRF:72] Gurmag Angler
+4 [NEM:30] Daze
+1 [5ED:329] Sylvan Library
+4 [ISD:51] Delver of Secrets
+4 [M12:73] Ponder
+2 [ISD:105] Liliana of the Veil
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([ISD:51],[ISD:51],[ISD:51],[ISD:51],[FUT:153],[FUT:153],[FUT:153],[FUT:153],[BBD:136],[FRF:72],[FRF:72])([5ED:329])([RTR:141],[RTR:141],[RTR:141],[MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[NEM:30],[NEM:30],[NEM:30],[NEM:30],[AER:57],[AER:57],[ALL:28],[ALL:28],[ALL:28],[ALL:28])([3ED:283],[3ED:283],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[3ED:288],[3ED:290],[3ED:290],[3ED:290],[3ED:290],[ZEN:229],[TMP:330],[TMP:330],[TMP:330],[TMP:330])([ISD:105],[ISD:105])([FEM:38a],[FEM:38a],[FEM:38a],[M12:73],[M12:73],[M12:73],[M12:73],[THS:107],[THS:107])
+LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|

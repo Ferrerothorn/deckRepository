@@ -1,35 +1,30 @@
-1 [KLD:163] Nissa, Vital Force
-1 [DD3DVD:29] Plains
-2 [EMA:215] Deathrite Shaman
-1 [MM3:200] Voice of Resurgence
+4 [JUD:62] Cabal Therapy
+4 [MM3:249] Verdant Catacombs
+4 [MM3:146] Abrupt Decay
 4 [CMD:177] Veteran Explorer
-1 [E01:75] Thragtusk
-1 [SHM:299] Forest
+4 [V13:19] Green Sun's Zenith
+4 [MM3:239] Marsh Flats
+3 [CMA:19] Path to Exile
 3 [CNS:191] Pernicious Deed
-1 [PTC:281] Painful Truths
-1 [C15:326] Plains
-1 [CN2:75] Kaya, Ghost Assassin
+3 [ME4:242] Bayou
+3 [HOP:152] Swamp
+3 [7ED:329] Forest
+2 [MBP:133] Siege Rhino
+2 [EMA:215] Deathrite Shaman
+2 [MMA:144] Eternal Witness
+2 [C15:326] Plains
 1 [USG:322] Phyrexian Tower
 1 [PLC:163] Teneb, the Harvester
 1 [SOI:233] Tireless Tracker
-1 [SOM:238] Swamp
-3 [ME4:242] Bayou
-1 [HOP:152] Swamp
-4 [MM3:239] Marsh Flats
 1 [2ED:294] Scrubland
-1 [7ED:329] Forest
 1 [2ED:293] Savannah
 1 [5ED:191] Sylvan Library
-1 [PTK:179] Forest
 1 [C15:49] Meren of Clan Nel Toth
-3 [CMA:19] Path to Exile
-1 [C16:345] Swamp
+1 [E01:75] Thragtusk
+1 [PTC:281] Painful Truths
 1 [M14:195] Scavenging Ooze
-4 [JUD:62] Cabal Therapy
-2 [MMA:144] Eternal Witness
-4 [V13:19] Green Sun's Zenith
-2 [MBP:133] Siege Rhino
-4 [MM3:146] Abrupt Decay
-4 [MM3:249] Verdant Catacombs
+1 [MM3:200] Voice of Resurgence
+1 [CN2:75] Kaya, Ghost Assassin
+1 [KLD:163] Nissa, Vital Force
 LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([CMD:177],[CMD:177],[CMD:177],[CMD:177],[EMA:215],[EMA:215],[M14:195],[MM3:200],[SOI:233],[MMA:144],[MMA:144],[MBP:133],[MBP:133],[C15:49],[PLC:163],[E01:75])([CNS:191],[CNS:191],[CNS:191],[5ED:191])([MM3:146],[MM3:146],[MM3:146],[MM3:146],[CMA:19],[CMA:19],[CMA:19])([MM3:239],[MM3:239],[MM3:239],[MM3:239],[MM3:249],[MM3:249],[MM3:249],[MM3:249],[ME4:242],[ME4:242],[ME4:242],[2ED:293],[2ED:294],[USG:322],[7ED:329],[SHM:299],[PTK:179],[DD3DVD:29],[C15:326],[C16:345],[HOP:152],[SOM:238])([CN2:75],[KLD:163])([JUD:62],[JUD:62],[JUD:62],[JUD:62],[V13:19],[V13:19],[V13:19],[V13:19],[PTC:281])
 LAYOUT SIDEBOARD:(0,0)(CARD_TYPE,false,50)|
